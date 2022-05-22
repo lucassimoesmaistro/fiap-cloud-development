@@ -1,0 +1,20 @@
+﻿@page
+@model coreproj.Pages.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+You are editing the course where Id=@Model.obj.Id
+
+<form method="post">
+
+    <input type="hidden" asp-for="@Model.obj.Id" />
+    <label asp-for="@Model.obj.Name"></label>
+    <input asp-for="@Model.obj.Name" />
+    </br></br>
+    <label asp-for="@Model.obj.rating"></label>
+    <input asp-for="@Model.obj.rating" />
+    <button type="submit"> Save</button>
+</form>
+

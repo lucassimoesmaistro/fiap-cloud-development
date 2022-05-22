@@ -1,0 +1,18 @@
+﻿@page
+@model coreproj.Pages.CreateModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Creating a new course</h1>
+
+<form method="post">
+    <label asp-for="@Model.obj.Name"></label>
+    <input asp-for="@Model.obj.Name"></input>
+    </br></br>
+    <label asp-for="@Model.obj.rating"></label>
+    <input asp-for="@Model.obj.rating"></input>
+
+    <button type="submit"> Save</button>
+</form>
+

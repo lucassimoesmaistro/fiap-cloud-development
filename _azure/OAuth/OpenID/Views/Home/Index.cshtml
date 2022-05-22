@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the application</h1>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <h2>Hello @User.Identity.Name</h2>
+        <h2>Access Key : @ViewBag.token</h2>
+            }
+</div>
