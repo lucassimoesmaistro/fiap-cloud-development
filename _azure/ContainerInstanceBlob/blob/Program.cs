@@ -9,8 +9,8 @@ namespace whizlabblob
 {
     class Program
     {
-        static string storageconnstring = "DefaultEndpointsProtocol=https;AccountName=demostore40000lsm;AccountKey=Nq1W599rTHzx0k/iB5leZ/+KuZi9voVcrIJ7rHPj9XnmLP95YEXCzm+xyq/k5POx9Xvi48ZCnC8VU6L9S8QQZQ==;EndpointSuffix=core.windows.net";
-        static string containerName = "demo";
+        static string storageconnstring = "DefaultEndpointsProtocol=https;AccountName=fiapclouddevelopment;AccountKey=1xhWvBtbAUkz5yuShZ1lelTFVVwu4KKaZsP4+/0oQSk6Bnr1YEtdDqBQhqjbsrAijnN6JvcIIVzm4ijMejNwKw==;EndpointSuffix=core.windows.net";
+        static string containerName = "data";
         static string filename = "sample.html";
         
         
