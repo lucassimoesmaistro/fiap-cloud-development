@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="sqlapp20220522190249" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\_github\\fiap-cloud-development\\_azure\\BuildingAnApplicationThatConnectsToTheSQLDatabase\\sqlapp\\sqlapp\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
-  </parameter>
-</parameters>

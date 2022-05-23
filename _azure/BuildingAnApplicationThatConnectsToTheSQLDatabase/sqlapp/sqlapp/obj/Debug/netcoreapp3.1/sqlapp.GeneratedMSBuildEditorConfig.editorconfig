@@ -1,3 +1,0 @@
-is_global = true
-build_property.RootNamespace = sqlapp
-build_property.ProjectDir = C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\
