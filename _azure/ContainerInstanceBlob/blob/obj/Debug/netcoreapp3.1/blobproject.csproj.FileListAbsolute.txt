@@ -1,0 +1,53 @@
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.exe
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.deps.json
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.dll
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.pdb
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\App\Container instance blob\blob\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.dll
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.pdb
+C:\App\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.genruntimeconfig.cache
+C:\_azure\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.exe
+C:\_azure\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.deps.json
+C:\_azure\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\_azure\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\_azure\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.dll
+C:\_azure\Container instance blob\blob\bin\Debug\netcoreapp3.1\blobproject.pdb
+C:\_azure\Container instance blob\blob\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\_azure\Container instance blob\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\_azure\Container instance blob\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\_azure\Container instance blob\blob\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\_azure\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\_azure\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\_azure\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\_azure\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\_azure\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.dll
+C:\_azure\Container instance blob\blob\obj\Debug\netcoreapp3.1\blobproject.pdb
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\bin\Debug\netcoreapp3.1\blobproject.exe
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\bin\Debug\netcoreapp3.1\blobproject.deps.json
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\bin\Debug\netcoreapp3.1\blobproject.dll
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\bin\Debug\netcoreapp3.1\blobproject.pdb
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.AssemblyReference.cache
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\obj\Debug\netcoreapp3.1\blobproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\obj\Debug\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\obj\Debug\netcoreapp3.1\blobproject.dll
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\obj\Debug\netcoreapp3.1\blobproject.pdb
+C:\_github\fiap-cloud-development\_azure\ContainerInstanceBlob\blob\obj\Debug\netcoreapp3.1\blobproject.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = queue_receive
+build_property.ProjectDir = C:\_github\fiap-cloud-development\_azure\storage-queue-1\queue-receive\

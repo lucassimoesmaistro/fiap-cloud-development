@@ -1,0 +1,13 @@
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\bin\Debug\net6.0\publish\sqlapp.exe
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\bin\Debug\net6.0\publish\appsettings.json
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\bin\Debug\net6.0\publish\sqlapp.dll
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\bin\Debug\net6.0\publish\sqlapp.deps.json
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\bin\Debug\net6.0\publish\sqlapp.runtimeconfig.json
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\bin\Debug\net6.0\publish\sqlapp.pdb
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\bin\Debug\net6.0\publish\System.Data.SqlClient.dll
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\bin\Debug\net6.0\publish\runtimes\win-arm64\native\sni.dll
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\bin\Debug\net6.0\publish\runtimes\win-x64\native\sni.dll
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\bin\Debug\net6.0\publish\runtimes\win-x86\native\sni.dll
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\bin\Debug\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\bin\Debug\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

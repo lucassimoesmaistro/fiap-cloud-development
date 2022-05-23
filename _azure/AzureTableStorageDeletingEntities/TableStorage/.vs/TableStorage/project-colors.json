@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c96c7e62-e49b-48e5-b4eb-118b0d29f128": {
+      "ProjectGuid": "c96c7e62-e49b-48e5-b4eb-118b0d29f128",
+      "DisplayName": "TableStorage",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,86 @@
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.exe
+C:\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.csprojAssemblyReference.cache
+C:\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.AssemblyInfoInputs.cache
+C:\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.AssemblyInfo.cs
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.deps.json
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.runtimeconfig.json
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.runtimeconfig.dev.json
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.dll
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.pdb
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Table.dll
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.OData.Core.dll
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.OData.Edm.dll
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.Spatial.dll
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+C:\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.csproj.CoreCompileInputs.cache
+C:\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.csproj.CopyComplete
+C:\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.dll
+C:\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.pdb
+C:\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.genruntimeconfig.cache
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.exe
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.deps.json
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.runtimeconfig.json
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.runtimeconfig.dev.json
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.dll
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.pdb
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Table.dll
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.OData.Core.dll
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.OData.Edm.dll
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.Spatial.dll
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+C:\Udemy\App\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Udemy\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.csprojAssemblyReference.cache
+C:\Udemy\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.csproj.CoreCompileInputs.cache
+C:\Udemy\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.AssemblyInfoInputs.cache
+C:\Udemy\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.AssemblyInfo.cs
+C:\Udemy\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.csproj.CopyComplete
+C:\Udemy\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.dll
+C:\Udemy\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.pdb
+C:\Udemy\App\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.genruntimeconfig.cache
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.exe
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.deps.json
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.runtimeconfig.json
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.runtimeconfig.dev.json
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.dll
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.pdb
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Table.dll
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.OData.Core.dll
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.OData.Edm.dll
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.Spatial.dll
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.csprojAssemblyReference.cache
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.csproj.CoreCompileInputs.cache
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.AssemblyInfoInputs.cache
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.AssemblyInfo.cs
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.csproj.CopyComplete
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.dll
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.pdb
+C:\Udemy\7. AZ-204\new 5\Lab - Azure Storage Account - Table storage\cosmos-table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.genruntimeconfig.cache
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.exe
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.deps.json
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.runtimeconfig.json
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.runtimeconfig.dev.json
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.dll
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\cosmos-table.pdb
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Table.dll
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.OData.Core.dll
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.OData.Edm.dll
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\Microsoft.Spatial.dll
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+C:\_azure\table\cosmos-table\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\_azure\table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.csprojAssemblyReference.cache
+C:\_azure\table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.AssemblyInfoInputs.cache
+C:\_azure\table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.AssemblyInfo.cs
+C:\_azure\table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.csproj.CopyComplete
+C:\_azure\table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.dll
+C:\_azure\table\cosmos-table\obj\Debug\netcoreapp3.1\cosmos-table.pdb

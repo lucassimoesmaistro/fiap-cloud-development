@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TableStorage
+build_property.ProjectDir = C:\_github\fiap-cloud-development\_azure\AzureTableStorageAddEntity\TableStorage\TableStorage\

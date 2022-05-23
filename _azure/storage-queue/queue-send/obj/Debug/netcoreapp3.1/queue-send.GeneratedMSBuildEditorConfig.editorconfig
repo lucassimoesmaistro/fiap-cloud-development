@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = queue_send
+build_property.ProjectDir = C:\_github\fiap-cloud-development\_azure\storage-queue\queue-send\

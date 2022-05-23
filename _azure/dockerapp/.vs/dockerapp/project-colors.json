@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6734c1c-41dc-4087-9b22-98714669038a": {
+      "ProjectGuid": "e6734c1c-41dc-4087-9b22-98714669038a",
+      "DisplayName": "dockerapp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

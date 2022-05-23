@@ -1,0 +1,88 @@
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Azure.Core.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Azure.Identity.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Azure.Security.KeyVault.Keys.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Azure.KeyVault.Cryptography.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.dll
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Azure.Core.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Azure.Identity.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Azure.Security.KeyVault.Keys.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.xml
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Work\Udemy\2. Key vault - Encryption\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Azure.Core.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Azure.Identity.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Azure.Security.KeyVault.Keys.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Azure.KeyVault.Cryptography.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Identity.Client.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.dll
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Azure.Core.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Azure.Identity.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Azure.Security.KeyVault.Keys.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Identity.Client.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Json.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.xml
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\_azure\Key vault - Encryption\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

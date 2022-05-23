@@ -1,0 +1,13 @@
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.exe
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.dll
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.deps.json
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.runtimeconfig.json
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.pdb
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\_github\fiap-cloud-development\_azure\BuildingAnApplicationThatConnectsToTheSQLDatabase\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
