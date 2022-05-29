@@ -7,10 +7,10 @@ namespace sqlapp.Services
     // This service will interact with our Product data in the SQL database
     public class ProductService
     {
-        private static string db_source = "srv-db-fiap.database.windows.net";
+        private static string db_source = "srvfiapclouddev.database.windows.net";
         private static string db_user = "lucaswindows";
         private static string db_password = "Teste@123456";
-        private static string db_database = "db-fiap";
+        private static string db_database = "db-clouddevelopment";
 
         private SqlConnection GetConnection()
         {

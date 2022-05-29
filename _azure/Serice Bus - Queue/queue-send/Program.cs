@@ -7,8 +7,8 @@ namespace queue_send
 {
     class Program
     {
-        private static string _bus_connectionstring= "Endpoint=sb://appnamespace2000.servicebus.windows.net/;SharedAccessKeyName=porgrampolicy;SharedAccessKey=SCHYtLwIj8mIApr7Y4RNdAQggvv/aBCOnayuVnqsG/0=";
-        private static string _queue_name = "appqueue";
+        private static string _bus_connectionstring = "Endpoint=sb://fiapmessagebroker.servicebus.windows.net/;SharedAccessKeyName=fiapqueue;SharedAccessKey=RttwOMB64l8eR3EZwV6H7hZQY5iN9OzT6R9udjsf8T8=";
+        private static string _queue_name = "fiapqueue";
         static async Task Main(string[] args)
         {
             IQueueClient _client;
