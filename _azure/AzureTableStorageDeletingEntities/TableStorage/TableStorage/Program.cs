@@ -8,7 +8,7 @@ namespace TableStorage
     class Program
     {
 
-        static string connectionString = "DefaultEndpointsProtocol=https;AccountName=fiapclouddev;AccountKey=KSfvZyNEZHiPHRFvfPYfMMOq/UYT9JaBJU1npluhVMUrjq5yGv35Cn8VBsItndmqOcbp0fm/bQ/Kr9fyIEV+xw==;EndpointSuffix=core.windows.net";
+        static string connectionString = "DefaultEndpointsProtocol=https;AccountName=fiapclouddevelopment;AccountKey=VC4iyODgnREWeJziPoTg4WGdnBbdf2h77DPVDFhuWEqB2bPwOTLKJhN6HeJ/m54o+Qx7K/g0Ji/4+AStNsWfbA==;EndpointSuffix=core.windows.net";
         static string tableName = "Orders";
         
         

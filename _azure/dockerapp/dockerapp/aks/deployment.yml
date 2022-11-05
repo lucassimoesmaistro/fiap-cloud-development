@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: acrfiapclouddevelopment.azurecr.io/dockerapp:latest
+        image: acrfiap.azurecr.io/dockerapp:latest
         ports:
         - containerPort: 80
           name: myapp        

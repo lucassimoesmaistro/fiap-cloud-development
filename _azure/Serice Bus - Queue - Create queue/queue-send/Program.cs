@@ -8,11 +8,11 @@ namespace queue_send
 {
     class Program
     {
-        private static string _bus_connectionstring= "Endpoint=sb://appnamespace3000.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=RjCRqauhKpyLoZAFiaQ70rnDNnqyLstGUUBgLWTCCQI=";
-        private static string _queue_name = "appqueue";
+        private static string _bus_connectionstring= "Endpoint=sb://fiapservicebus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=YAm1bqvgIpWVvR8SimCvSRlIuRqJBCZ61hSpDgDuygQ=";
+        private static string _queue_name = "fiapqueue";
         static async Task Main(string[] args)
         {
-            CreateQueue("appqueue").Wait();
+            CreateQueue("fiapqueue").Wait();
             Console.WriteLine("Queue created");
         }
 
