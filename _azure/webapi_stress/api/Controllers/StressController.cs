@@ -29,4 +29,4 @@ public class StressController : ControllerBase
             while (i-- > 0);
      }
 }
-//az webapp up --runtime dotnet:6 --sku B1 --logs --name fiapscaleout
+//az webapp up --runtime DOTNETCORE:3.1 --sku B1 --logs --name fiapdatabasemba -g grp-fiap

@@ -9,17 +9,17 @@ namespace TableStorage
     class Program
     {
 
-        static string connectionString = "DefaultEndpointsProtocol=https;AccountName=fiapclouddevelopment;AccountKey=VC4iyODgnREWeJziPoTg4WGdnBbdf2h77DPVDFhuWEqB2bPwOTLKJhN6HeJ/m54o+Qx7K/g0Ji/4+AStNsWfbA==;EndpointSuffix=core.windows.net";
-        static string tableName = "Orders";
+        static string connectionString = "DefaultEndpointsProtocol=https;AccountName=storageaccountfiapmba;AccountKey=Yjzjnh05Ajy1LlmnVSmWydlCVEAswuQhzHTU3kLvzPK8GCn71WJ6vIXtdDeWBTVhb0JJhjyZHYGs+AStowImmg==;EndpointSuffix=core.windows.net";
+        static string tableName = "Clientes";
         
         
         static async Task Main(string[] args)
         {
             
-            AddEntity("O1", "Mobile", 100).Wait();
-            AddEntity("O2", "Laptop", 50).Wait();
-            AddEntity("O3", "Desktop", 70).Wait();
-            AddEntity("O4", "Laptop", 200).Wait();
+            AddEntity("Lucas", "AgPaulista", 100).Wait();
+            AddEntity("Joao", "AgLapa", 50).Wait();
+            AddEntity("Jose", "AgPaulista", 70).Wait();
+            AddEntity("Pedro", "AgIndaiatuba", 200).Wait();
             Console.WriteLine("Complete");
             
         }

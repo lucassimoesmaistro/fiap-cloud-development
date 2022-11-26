@@ -9,7 +9,7 @@ namespace queue_receive
 {
     class Program
     {
-        private static string _bus_connectionstring = "Endpoint=sb://fiapservicebus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=YAm1bqvgIpWVvR8SimCvSRlIuRqJBCZ61hSpDgDuygQ=";
+        private static string _bus_connectionstring = "Endpoint=sb://messagebrokerfiap.servicebus.windows.net/;SharedAccessKeyName=policyqueue;SharedAccessKey=gmlUyhfMH2i9xVqTlLh2QOR/1D5K7/GcMYIEaOKctjs=";
         private static string _queue_name = "fiapqueue";
         private static QueueClient _client;
 
