@@ -1,0 +1,118 @@
+name: $(BuildDefinitionName)_$(date:yyyyMMdd)$(rev:.r)
+
+trigger: none
+
+pr: none
+
+variables:
+  - name: conexao
+    value: 'ConexaoAzDevopsAzureFiap'
+  - name: location
+    value: 'brazilsouth'
+  - name: webapp_name
+    value: 'webappfiapmbalucas'
+  - name: resource_group_name
+    value: 'grp-fiap'
+  - name: storageaccountname
+    value: 'mbafiapestadoinfra'
+  - name: containerstorageaccount
+    value: 'terraform'
+  - name: terraformkey
+    value: 'terraformacr.tfstate'
+  - name: terraform_version
+    value: '0.15.4'
+
+stages :
+  - stage: validate
+    jobs:
+    - job: validate
+      continueOnError: false
+      steps:
+      - task: TerraformInstaller@0
+        displayName: 'install'
+        inputs:
+          terraformVersion: ${{ variables.terraform_version}}
+      - task: TerraformTaskV2@2
+        displayName: 'init'
+        inputs:
+          provider: 'azurerm'
+          command: 'init'
+          backendServiceArm: ${{ variables.conexao }}
+          backendAzureRmResourceGroupName: ${{ variables.resource_group_name }}
+          backendAzureRmStorageAccountName: ${{ variables.storageaccountname }}
+          backendAzureRmContainerName: ${{ variables.containerstorageaccount }}
+          backendAzureRmKey: ${{ variables.terraformkey }}
+          workingDirectory: '$(System.DefaultWorkingDirectory)/terraform/'
+      - task: TerraformTaskV2@2
+        displayName: 'validate'
+        inputs:
+          provider: 'azurerm'
+          command: 'validate'
+          
+  - stage: plan
+    dependsOn: [validate]
+    condition: succeeded('validate')
+    jobs:
+      - job: terraform_plan_develop
+        steps:
+        - task: TerraformInstaller@0
+          displayName: 'install'
+          inputs:
+            terraformVersion: ${{ variables.terraform_version}}
+        - task: TerraformTaskV2@2
+          displayName: 'init'
+          inputs:
+            provider: 'azurerm'
+            command: 'init'
+            backendServiceArm: ${{ variables.conexao }}
+            backendAzureRmResourceGroupName: ${{ variables.resource_group_name }}
+            backendAzureRmStorageAccountName: ${{ variables.storageaccountname }}
+            backendAzureRmContainerName: ${{ variables.containerstorageaccount }}
+            backendAzureRmKey: ${{ variables.terraformkey }}
+            workingDirectory: '$(System.DefaultWorkingDirectory)/terraform/'
+        - task: TerraformTaskV2@2
+          displayName: 'plan'
+          inputs:
+            provider: 'azurerm'
+            command: 'plan'
+            commandOptions: '-input=false'
+            environmentServiceNameAzureRM: ${{ variables.conexao }}
+            workingDirectory: '$(System.DefaultWorkingDirectory)/terraform/'
+
+  - stage: apply
+    dependsOn: [plan]
+    condition: succeeded('plan')
+    jobs:
+      - job: terraform_apply_develop
+        steps:
+        - task: TerraformInstaller@0
+          displayName: 'install'
+          inputs:
+            terraformVersion: ${{ variables.terraform_version}}
+        - task: TerraformTaskV2@2
+          displayName: 'init'
+          inputs:
+            provider: 'azurerm'
+            command: 'init'
+            backendServiceArm: ${{ variables.conexao }}
+            backendAzureRmResourceGroupName: ${{ variables.resource_group_name }}
+            backendAzureRmStorageAccountName: ${{ variables.storageaccountname }}
+            backendAzureRmContainerName: ${{ variables.containerstorageaccount }}
+            backendAzureRmKey: ${{ variables.terraformkey }} 
+            workingDirectory: '$(System.DefaultWorkingDirectory)/terraform/'
+        - task: TerraformTaskV2@2
+          displayName: 'plan'
+          inputs:
+            provider: 'azurerm'
+            command: 'plan'
+            commandOptions: '-input=false'
+            environmentServiceNameAzureRM: ${{ variables.conexao }}
+            workingDirectory: '$(System.DefaultWorkingDirectory)/terraform/'
+        - task: TerraformTaskV2@2
+          displayName: 'apply'
+          inputs:
+            provider: 'azurerm'
+            command: 'apply'
+            commandOptions: '-input=false -auto-approve'
+            environmentServiceNameAzureRM: ${{ variables.conexao }}
+            workingDirectory: '$(System.DefaultWorkingDirectory)/terraform/'

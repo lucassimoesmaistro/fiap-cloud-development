@@ -7,6 +7,3 @@
 **/obj
 **/.azure
 **/.config
-**/.terraform
-
-**/.terraform/*
