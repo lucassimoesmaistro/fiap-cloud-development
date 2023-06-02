@@ -6,8 +6,8 @@ namespace queue_send
 {
     class Program
     {
-        private static string queue_connection_string = "DefaultEndpointsProtocol=https;AccountName=storageaccountfiapmba;AccountKey=Yjzjnh05Ajy1LlmnVSmWydlCVEAswuQhzHTU3kLvzPK8GCn71WJ6vIXtdDeWBTVhb0JJhjyZHYGs+AStowImmg==;EndpointSuffix=core.windows.net";
-        private static string queue_name = "fiapqueue";
+        private static string queue_connection_string = "DefaultEndpointsProtocol=https;AccountName=fiap1scjr;AccountKey=dPGTcL8gc4TS+L95ZqjqPv6+M03g8crMYQHij6++GqZda13a03Cdi0/5yb+n+I9QatEIM92tgzYM+AStn/D0eQ==;EndpointSuffix=core.windows.net";
+        private static string queue_name = "fiap-queue";
         static void Main(string[] args)
         {
             

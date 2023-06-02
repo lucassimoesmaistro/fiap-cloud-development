@@ -8,7 +8,7 @@ namespace queue_send
 {
     class Program
     {
-        private static string _bus_connectionstring= "Endpoint=sb://fiapservicebus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=YAm1bqvgIpWVvR8SimCvSRlIuRqJBCZ61hSpDgDuygQ=";
+        private static string _bus_connectionstring= "BlobEndpoint=https://fiap1scjr.blob.core.windows.net/;QueueEndpoint=https://fiap1scjr.queue.core.windows.net/;FileEndpoint=https://fiap1scjr.file.core.windows.net/;TableEndpoint=https://fiap1scjr.table.core.windows.net/;SharedAccessSignature=sv=2022-11-02&ss=bfqt&srt=s&sp=rwdlacupiytfx&se=2023-06-01T07:21:04Z&st=2023-05-31T23:21:04Z&spr=https&sig=i2M7fahKd2XKj2nWYYbu%2B5X4m4GXdOCaBtHlPFRwF3g%3D";
         private static string _queue_name = "fiapqueue";
         static async Task Main(string[] args)
         {

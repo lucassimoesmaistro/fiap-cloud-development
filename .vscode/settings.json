@@ -4,5 +4,7 @@
     "azureFunctions.projectLanguage": "C#",
     "azureFunctions.projectRuntime": "~3",
     "debug.internalConsoleOptions": "neverOpen",
-    "azureFunctions.preDeployTask": "publish (functions)"
+    "azureFunctions.preDeployTask": "publish (functions)",
+    "appService.defaultWebAppToDeploy": "/subscriptions/19ebcc25-b646-40f2-8371-f89ee8d07b87/resourceGroups/grp-fiap/providers/Microsoft.Web/sites/fiapwebapp01",
+    "appService.deploySubpath": "_azure\\webapi_stress\\api"
 }
